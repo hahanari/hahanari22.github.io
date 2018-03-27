@@ -1,1 +1,3 @@
-markdown 어케 씀?
+## python 가상환경 설정
+
+- virtualenv
